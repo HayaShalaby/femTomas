@@ -3,4 +3,4 @@ project(femTomas)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(femTomas main.cpp)
+add_executable(femTomas femTomas.cpp)
